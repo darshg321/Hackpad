@@ -16,7 +16,7 @@ Made in KiCad
 ![Screenshot 2025-06-21 234448](https://github.com/user-attachments/assets/99e9541a-cf2a-4aea-aaa8-6cd90c86aaf2)
 
 ## Firmware Overview
-Uses QMK firmware, keys mapped to the arrow keys
+Uses KMK firmware, keys mapped to the arrow keys
 
 ## BOM
  - 4x Cherry MX Switches
